@@ -20,6 +20,8 @@ a smoke test job and a full test job, you can configure the full test job to onl
 
 For more details, see https://wiki.jenkins-ci.org/display/JENKINS/GitHub+pull+request+builder+plugin
 
+Testing Github Pull Request Builder
+
 ### Master status:
 
 [![Build Status](https://jenkins.ci.cloudbees.com/buildStatus/icon?job=plugins/ghprb-plugin)](https://jenkins.ci.cloudbees.com/job/plugins/job/ghprb-plugin/)
